@@ -1,0 +1,1 @@
+Micro projects that I did as part of my curriculum.

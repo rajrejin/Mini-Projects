@@ -1,0 +1,1 @@
+Converting an RGB image into Grayscale using lightness, average and luminosity methods.
