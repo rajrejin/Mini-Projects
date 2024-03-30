@@ -1,0 +1,1 @@
+Different features in the Census Income dataset is visualized for analysis purposes
