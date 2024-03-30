@@ -1,0 +1,1 @@
+A Convolutional Neural Network (CNN) is trained on MNIST dataset and its performance is evaluated.
